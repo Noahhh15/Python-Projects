@@ -6,7 +6,6 @@ board(2D matrix) : board
 row ,column : coordinates of the cell on a board
 Returns :
 Boolean Value
-
 """
 
 solution = []
